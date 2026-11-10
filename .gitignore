@@ -1,0 +1,10 @@
+data/*
+!data/README.md
+outputs/
+*.rds
+*.csv
+*.xlsx
+*.parquet
+.Rhistory
+.RData
+.Rproj.user/
